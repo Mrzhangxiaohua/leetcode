@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$prob_5.ic" NAME="prob_5 Coverage Results" MODIFIED="1560389484003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R0I4vMtBEskV2Q7uPk7tYcYyl1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567257815648" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\codeProjectWorkPlace\IdeaProjects\leetcode\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.prob_53">
+    <configuration name="Prob_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.Prob_50" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.prob_46" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.prob_48" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.prob_49" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prob_51_to_Prob_100.prob_53" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prob_51_to_Prob_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.prob_53" />
+        <item itemvalue="Application.Prob_50" />
+        <item itemvalue="Application.prob_49" />
+        <item itemvalue="Application.prob_48" />
+        <item itemvalue="Application.prob_46" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="" />
+      <created>1559026649913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559026649913</updated>
+      <workItem from="1559026651190" duration="3957000" />
+      <workItem from="1559092302362" duration="6799000" />
+      <workItem from="1559203782931" duration="8773000" />
+      <workItem from="1559541389107" duration="2069000" />
+      <workItem from="1559631175709" duration="4717000" />
+      <workItem from="1559789214167" duration="17000" />
+      <workItem from="1560043244214" duration="3958000" />
+      <workItem from="1560128194966" duration="16000" />
+      <workItem from="1560174851706" duration="2013000" />
+      <workItem from="1560219514812" duration="2854000" />
+      <workItem from="1560234170346" duration="1558000" />
+      <workItem from="1560303558232" duration="1291000" />
+      <workItem from="1560322628407" duration="1338000" />
+      <workItem from="1560344452314" duration="5602000" />
+      <workItem from="1560389032837" duration="863000" />
+      <workItem from="1560390838580" duration="12000" />
+      <workItem from="1560480721744" duration="10422000" />
+      <workItem from="1560514937653" duration="5302000" />
+      <workItem from="1560604015436" duration="5741000" />
+      <workItem from="1560677466593" duration="2098000" />
+      <workItem from="1560948411565" duration="3458000" />
+      <workItem from="1561025376260" duration="2039000" />
+      <workItem from="1561362111256" duration="11000" />
+      <workItem from="1561983451233" duration="5244000" />
+      <workItem from="1562036330452" duration="59000" />
+      <workItem from="1563113546381" duration="233000" />
+      <workItem from="1566886172151" duration="4060000" />
+      <workItem from="1566909151166" duration="848000" />
+      <workItem from="1566961321348" duration="6092000" />
+      <workItem from="1567081155910" duration="11867000" />
+      <workItem from="1567145705338" duration="739000" />
+      <workItem from="1567252136387" duration="5513000" />
+      <workItem from="1568797403033" duration="1170000" />
+      <workItem from="1568807221932" duration="1621000" />
+      <workItem from="1570809415872" duration="154000" />
+      <workItem from="1570974902885" duration="105000" />
+      <workItem from="1570981182639" duration="3496000" />
+      <workItem from="1571537521772" duration="5964000" />
+      <workItem from="1572142912993" duration="4026000" />
+      <workItem from="1572227250124" duration="697000" />
+      <workItem from="1572309407506" duration="5065000" />
+      <workItem from="1572481672740" duration="2923000" />
+      <workItem from="1572915552273" duration="4930000" />
+      <workItem from="1572960609476" duration="4575000" />
+      <workItem from="1573175589491" duration="143000" />
+      <workItem from="1573381894581" duration="2718000" />
+      <workItem from="1576025079920" duration="2918000" />
+      <workItem from="1576028029055" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_14.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_14.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_5.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_5.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_6.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_6.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_6.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_19.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_19.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_19.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_26.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_26.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_28.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_29.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_29.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_36.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_38.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_38.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_43.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_43.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_46.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_46.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/prob_48.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/Prob_50.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/Prob_50.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/Prob_50.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/Prob_50.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prob_51_to_Prob_100/prob_53.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="n" />
+        <watch expression="x" />
+        <watch expression="n" />
+        <watch expression="n" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
