@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/prob_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_11.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.prob_10">
+  <component name="RunManager" selected="Application.prob_14">
     <configuration name="prob_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_10" />
       <module name="leetcode" />
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_3" />
+    <configuration name="prob_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_11" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_6" />
+    <configuration name="prob_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_12" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_7" />
+    <configuration name="prob_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_13" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_9" />
+    <configuration name="prob_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_14" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prob_14" />
+        <item itemvalue="Application.prob_13" />
+        <item itemvalue="Application.prob_12" />
+        <item itemvalue="Application.prob_11" />
         <item itemvalue="Application.prob_10" />
-        <item itemvalue="Application.prob_9" />
-        <item itemvalue="Application.prob_7" />
-        <item itemvalue="Application.prob_6" />
-        <item itemvalue="Application.prob_3" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +211,9 @@
       <workItem from="1576028029055" duration="7000" />
       <workItem from="1577710124874" duration="8346000" />
       <workItem from="1577866803599" duration="4528000" />
-      <workItem from="1577965773884" duration="8585000" />
+      <workItem from="1577965773884" duration="8610000" />
+      <workItem from="1578035971103" duration="4648000" />
+      <workItem from="1578056279178" duration="3370000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -233,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578014085110</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jz10">
+      <created>1578017191862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578017191862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +266,8 @@
     <MESSAGE value="jz2" />
     <MESSAGE value="jz3" />
     <MESSAGE value="jz8" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz8" />
+    <MESSAGE value="jz10" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -395,6 +406,11 @@
           <url>file://$PROJECT_DIR$/src/Prob_1_to_Prob_50/Prob_50.java</url>
           <line>7</line>
           <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/prob_14.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -6,4 +6,22 @@ package jianzhi_offer;
  * @Date: 2020/1/3 10:06
  */
 public class prob_11 {
+    public int RectCover(int target) {
+        if (target < 1) return 0;
+        if (target == 1) return 1;
+        int[] DP = {1,2};
+        int sum;
+        while (target > 2){
+            sum = DP[0] + DP[1];
+            DP[0] = DP[1];
+            DP[1] = sum;
+            target--;
+        }
+        return DP[1];
+    }
+
+    public static void main(String[] args) {
+        prob_11 solution = new prob_11();
+        System.out.println(solution.RectCover(5));
+    }
 }
