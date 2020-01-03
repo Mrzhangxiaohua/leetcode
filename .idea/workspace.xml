@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,14 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.prob_1">
-    <configuration name="Prob_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.Prob_50" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.prob_7">
     <configuration name="prob_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_1" />
       <module name="leetcode" />
@@ -93,16 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prob_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.prob_48" />
+    <configuration name="prob_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_3" />
       <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="prob_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prob_1_to_Prob_50.prob_49" />
-      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,13 +117,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="prob_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_6" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prob_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_7" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prob_7" />
+        <item itemvalue="Application.prob_6" />
+        <item itemvalue="Application.prob_3" />
         <item itemvalue="Application.prob_1" />
         <item itemvalue="Application.prob_53" />
-        <item itemvalue="Application.Prob_50" />
-        <item itemvalue="Application.prob_49" />
-        <item itemvalue="Application.prob_48" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +212,8 @@
       <workItem from="1576025079920" duration="2918000" />
       <workItem from="1576028029055" duration="7000" />
       <workItem from="1577710124874" duration="8346000" />
-      <workItem from="1577866803599" duration="911000" />
+      <workItem from="1577866803599" duration="4528000" />
+      <workItem from="1577965773884" duration="5596000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -198,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577866907644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jz3">
+      <created>1577870380645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577870380645</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +250,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jz2" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz2" />
+    <MESSAGE value="jz3" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
