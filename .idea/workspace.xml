@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -213,7 +212,8 @@
       <workItem from="1578035971103" duration="4648000" />
       <workItem from="1578056279178" duration="3370000" />
       <workItem from="1578060585975" duration="62000" />
-      <workItem from="1578189774974" duration="220000" />
+      <workItem from="1578189774974" duration="781000" />
+      <workItem from="1578192548811" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578060608886</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="jz16">
+      <created>1578190017132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578190017132</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +282,8 @@
     <MESSAGE value="jz8" />
     <MESSAGE value="jz10" />
     <MESSAGE value="jz14" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz14" />
+    <MESSAGE value="jz16" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
