@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +214,8 @@
       <workItem from="1578056279178" duration="3370000" />
       <workItem from="1578060585975" duration="62000" />
       <workItem from="1578189774974" duration="781000" />
-      <workItem from="1578192548811" duration="71000" />
+      <workItem from="1578192548811" duration="103000" />
+      <workItem from="1578238417717" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -257,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578190017132</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="jz17">
+      <created>1578192639784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578192639784</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +292,8 @@
     <MESSAGE value="jz10" />
     <MESSAGE value="jz14" />
     <MESSAGE value="jz16" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz16" />
+    <MESSAGE value="jz17" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
