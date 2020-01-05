@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/prob_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_11.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,6 +212,8 @@
       <workItem from="1577965773884" duration="8610000" />
       <workItem from="1578035971103" duration="4648000" />
       <workItem from="1578056279178" duration="3370000" />
+      <workItem from="1578060585975" duration="62000" />
+      <workItem from="1578189774974" duration="220000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578017191862</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jz14">
+      <created>1578060608886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578060608886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +274,8 @@
     <MESSAGE value="jz3" />
     <MESSAGE value="jz8" />
     <MESSAGE value="jz10" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz10" />
+    <MESSAGE value="jz14" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
