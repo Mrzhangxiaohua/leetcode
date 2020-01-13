@@ -8,3 +8,5 @@
 7. prob_26
 8. prob_27（较难）
 9. prob_28（较难）
+10.prob_33（compator知识）
+11.prob_36（较难）
