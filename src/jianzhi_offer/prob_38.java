@@ -26,20 +26,19 @@ public class prob_38 {
             }
         }
         int count = count_all(array, index, k);
-        System.out.println(count);
         return count;
     }
     public int count_all(int[] array, int index, int k) {
         int count = 0;
         for (int i = index; i >=0 ; i--) {
-            if (array[i] == k) {
+            if (array[index] == k) {
                 count++;
             }else {
                 break;
             }
         }
         for (int i = index + 1; i < array.length; i++) {
-            if (array.length > i && array[i] == k){
+            if (array.length > i && array[index] == k){
                 count ++;
             }else {
                 break;
