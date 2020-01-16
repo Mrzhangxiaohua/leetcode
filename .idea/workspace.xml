@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_58.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/prob_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_56.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +230,7 @@
       <workItem from="1578365634246" duration="14463000" />
       <workItem from="1578487094860" duration="3115000" />
       <workItem from="1578551335563" duration="52336000" />
-      <workItem from="1579050948989" duration="11245000" />
+      <workItem from="1579050948989" duration="18313000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -342,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578923933172</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="jz56">
+      <created>1579138874350</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579138874350</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +379,8 @@
     <MESSAGE value="jz33" />
     <MESSAGE value="jz38" />
     <MESSAGE value="jz48" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz48" />
+    <MESSAGE value="jz56" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz56" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
