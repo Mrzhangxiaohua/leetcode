@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6f304-84d8-4a7c-ba25-e76479390abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_68.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jianzhi_offer/prob_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi_offer/prob_56.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,20 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.prob_54">
-    <configuration name="prob_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_48" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.prob_66">
     <configuration name="prob_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_49" />
       <module name="leetcode" />
@@ -148,13 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="prob_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.prob_66" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prob_66" />
         <item itemvalue="Application.prob_54" />
         <item itemvalue="Application.prob_51" />
         <item itemvalue="Application.prob_50" />
         <item itemvalue="Application.prob_49" />
-        <item itemvalue="Application.prob_48" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +236,8 @@
       <workItem from="1578365634246" duration="14463000" />
       <workItem from="1578487094860" duration="3115000" />
       <workItem from="1578551335563" duration="52336000" />
-      <workItem from="1579050948989" duration="18313000" />
+      <workItem from="1579050948989" duration="18975000" />
+      <workItem from="1579311554280" duration="15135000" />
     </task>
     <task id="LOCAL-00001" summary="jz2">
       <created>1577866907644</created>
@@ -344,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579138874350</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="jz58">
+      <created>1579145913727</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579145913727</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +394,8 @@
     <MESSAGE value="jz38" />
     <MESSAGE value="jz48" />
     <MESSAGE value="jz56" />
-    <option name="LAST_COMMIT_MESSAGE" value="jz56" />
+    <MESSAGE value="jz58" />
+    <option name="LAST_COMMIT_MESSAGE" value="jz58" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -609,6 +624,11 @@
           <url>file://$PROJECT_DIR$/src/jianzhi_offer/prob_54.java</url>
           <line>66</line>
           <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/prob_66.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="200" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
